@@ -5,7 +5,7 @@ int main() {
 	//note comment
 	//2-nd comment
 
-	std::cout << "Hello" << std::endl;
+	std::cout << "Hello Denis" << std::endl;
 
 	return 1;
 }

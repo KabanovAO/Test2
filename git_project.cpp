@@ -6,6 +6,7 @@ int main() {
 	//note comment
 	//2-nd comment
 
+	denis();
 	std::cout << sum1(5, 3);
 	// Andrey comment
 	// Denis comment

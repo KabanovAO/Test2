@@ -3,7 +3,7 @@
 
 int main()
 {
-	std::cout << sum1(5, 4);
+	std::cout << sum(5, 4);
 
 	return 1;
 }

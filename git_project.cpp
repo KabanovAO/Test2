@@ -8,5 +8,6 @@ int main() {
 	std::cout << "Hello, Denis" << std::endl;
 	std::cout << "hello, Andrey" << std::endl;
 	// Andrey comment
+	// Denis comment
 	return 1;
 }
